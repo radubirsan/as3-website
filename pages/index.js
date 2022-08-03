@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="AS3 website coming soon" />
+        <Header title="AS3" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
